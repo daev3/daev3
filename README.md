@@ -1,4 +1,4 @@
-### Oi, eu o <del>Goku</del> David
+## Oi, eu o <del>Goku</del> David
 
 [![Blog](https://img.shields.io/website?label=EstudioElemental.com.br&style=for-the-badge&url=https://estudioelemental.com.br/)](https://sujeitoprogramador.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-barenco-7b84a012a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/barenkombi)
 
@@ -6,7 +6,7 @@
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davelopeer&show_icons=true&theme=onedark)
 
 
-### Tecnologias que eu trabalho
+## Tecnologias que eu trabalho
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
