@@ -1,6 +1,6 @@
-## Oi, eu o <del>Goku</del> David
+## Oi, eu sou o <del>Goku</del> David
 
-Sou desenvolvedor backend atualmente estudando sobre microserviços e seu ecossistema.
+Sou desenvolvedor backend lutando pra aprender cada vez mais esse universo da engenharia de software.
 
 [![Blog](https://img.shields.io/website?label=EstudioElemental.com.br&style=for-the-badge&url=https://estudioelemental.com.br/)](https://sujeitoprogramador.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-barenco-7b84a012a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/barenkombi)
 
