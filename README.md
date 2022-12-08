@@ -2,7 +2,7 @@
 
 I'm a backend developer struggling to learn more and more about this software engineering universe.
 
-[![Blog](https://img.shields.io/website?label=EstudioElemental.com.br&style=for-the-badge&url=https://estudioelemental.com.br/)](https://sujeitoprogramador.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-barenco-7b84a012a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/barenkombi)
+[![Blog](https://img.shields.io/website?label=EstudioElemental.com.br&style=for-the-badge&url=https://estudioelemental.com.br/)](https://sujeitoprogramador.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-barenco-7b84a012a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/barenkombi)[![Exercism](https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/exercism-with-logo-black-b427c06c6a068ba9f391734115e4d22dfa876d1d.svg)](https://exercism.org/profiles/davelopeer)
 
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davelopeer&show_icons=true&theme=onedark)
